@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.6612903
+  lightness: 0.265233
+  brandStrength: 0.4706215
+  brandColors:
+    - '#000000'
+    - '#FFFFFF'
+    - '#8A8029'
+    - '#5B6EF4'
+    - '#B7B6BC'
+  rhythmicContrast: 0.8996416
+typography_spectrum: 0.3747077
+name: ACSHS
