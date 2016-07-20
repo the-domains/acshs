@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[ACSHS]]></title>
         <description><![CDATA[ACSHS]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/acshs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jul 2016 17:02:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 20 Jul 2016 17:02:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/acshs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Testing]]></title>
+            <description><![CDATA[<article><h1>Testing</h1><p>Test test!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/20001cfa-4672-4d5a-8a67-3fc92af14c75.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/20001cfa-4672-4d5a-8a67-3fc92af14c75.jpg</link>
+            <guid isPermaLink="false">5c895f6d-74d0-4d23-9190-2c121de26859</guid>
+            <pubDate>Wed, 20 Jul 2016 17:02:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e0a7edf-6e51-4385-b100-044928f98e85.jpg">]]></description>
